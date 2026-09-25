@@ -1,0 +1,2 @@
+172.24.160.100 dev eth0 FAILED 
+172.24.160.1 dev eth0 lladdr 00:15:5d:f9:a0:14 REACHABLE 
