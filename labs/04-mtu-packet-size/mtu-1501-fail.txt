@@ -1,0 +1,7 @@
+PING 172.24.160.1 (172.24.160.1) 1473(1501) bytes of data.
+ping: sendmsg: Message too long
+ping: sendmsg: Message too long
+
+--- 172.24.160.1 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1027ms
+
