@@ -1,0 +1,1 @@
+172.24.160.1 dev eth0 lladdr 00:15:5d:05:2e:2c STALE 
