@@ -1,0 +1,8 @@
+PING 10.100.0.2 (10.100.0.2) 56(84) bytes of data.
+64 bytes from 10.100.0.2: icmp_seq=1 ttl=64 time=0.261 ms
+64 bytes from 10.100.0.2: icmp_seq=2 ttl=64 time=0.045 ms
+64 bytes from 10.100.0.2: icmp_seq=3 ttl=64 time=0.051 ms
+
+--- 10.100.0.2 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2033ms
+rtt min/avg/max/mdev = 0.045/0.119/0.261/0.100 ms
